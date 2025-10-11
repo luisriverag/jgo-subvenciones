@@ -2,11 +2,11 @@
 
 A challenge with the National Subsidies Database (Base de Datos Nacional de Subvenciones)
 
-|              |                                                                    |
-| ------------ | ------------------------------------------------------------------ |
-| GitHub       | https://github.com/JaimeObregon/subvenciones                       |
-| Discord      | https://discord.gg/r2ytSa782D                                      |
-| Original idea | https://twitter.com/JaimeObregon/status/1507693311422877697 (thread in Spanish) |
+|               |                                                                                   |
+| ------------- | --------------------------------------------------------------------------------- |
+| GitHub        | <https://github.com/JaimeObregon/subvenciones>                                    |
+| Discord       | <https://discord.gg/r2ytSa782D>                                                   |
+| Original idea | <https://twitter.com/JaimeObregon/status/1507693311422877697> (thread in Spanish) |
 
 ## The starting point
 

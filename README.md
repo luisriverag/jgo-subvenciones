@@ -1,11 +1,11 @@
 # Subvenciones
 
-_[- Read in English -](README_en.md)_
+[Read in English](README_en.md)
 
 Un reto con la Base de Datos Nacional de Subvenciones (BDNS).
 
-|              |                                                                    |
-| ------------ | ------------------------------------------------------------------ |
+|              |                                                                      |
+| ------------ | -------------------------------------------------------------------- |
 | GitHub       | <https://github.com/JaimeObregon/subvenciones>                       |
 | Discord      | <https://discord.gg/r2ytSa782D>                                      |
 | Idea inicial | <https://twitter.com/JaimeObregon/status/1507693311422877697> (hilo) |
@@ -30,11 +30,25 @@ El portal oficial proporciona una interfaz cutre de acceso a unos datos que, sin
 
 ## El reto
 
-¿Podemos, como sociedad civil, hacerlo mejor? ¿Podemos, como país, dotarnos de un instrumento mejor para el acceso y la publicidad de estos datos públicos?
+¿Podemos, como sociedad civil, hacerlo mejor? ¿Podemos, como país, dotarnos de un instrumento mejor para el acceso y la publicidad de estos datos públicos, para el control de la actuación de nuestros gestores?
 
-El reto consiste en arramplar con todos los datos del portal oficial y construir una herramienta alternativa para explorarlos de forma útil, eficaz y creativa.
+El reto de este proyecto consiste en:
 
-Y hacerlo de forma cooperativa, reuniendo esfuerzos y capacidades en torno a un proyecto colaborativo de software libre y código abierto al que todo aquel que lo desee puede asomarse y contribuir.
+1. [x] **Obtener los datos.** Encontrar la manera de descargar todos los datos del portal oficial del Ministerio y reunirlos en un lugar común y de fácil acceso para poder trabajarlos con la finalidad expresada.
+
+   Aplicando [este método de descarga](https://twitter.com/JaimeObregon/status/1508880926587056128) se han obtenido 10,5 millones de concesiones de subvenciones en unas 350.000 convocatorias. Los datos se encuentran en el directorio [`/files`](/files) de este repositorio.
+
+   ![Files](docs/assets/files.jpg)
+
+1. [x] **Articular una comunidad** heterogénea de personas interesadas en este reto desde sus diferentes perspectivas: analistas de datos, programadores, diseñadores de producto, abogados y especialistas en protección de datos, funcionarios de órganos de tramitación de subvenciones…
+
+   La comunidad tiene dos espacios: [el servidor `Subvenciones` en Discord](https://discord.gg/r2ytSa782D) y [el repositorio `JaimeObregon/subvenciones` en GitHub](https://github.com/JaimeObregon/subvenciones).
+
+   ![Discord](docs/assets/discord.jpg)
+
+1. [ ] **Construir una herramienta digital** complementaria a la oficial pero carente de sus limitaciones, y que faculte a la ciudadanía para explorar de forma eficaz y creativa las actuaciones de los gestores públicos.
+
+   Y hacerlo de forma cooperativa, reuniendo esfuerzos y capacidades en torno a un proyecto colaborativo de software libre y código abierto al que todo aquel que lo desee puede asomarse y contribuir.
 
 ## Cómo contribuir
 
@@ -74,7 +88,7 @@ Y hacerlo de forma cooperativa, reuniendo esfuerzos y capacidades en torno a un 
 
 ## Participantes
 
-¡Desentierra tu hacha, participa y añade tu nombre de guerra! 😄
+¡Tensa tu arco, desentierra tu hacha, participa y añade tu nombre de guerra! 😄
 
 - Jaime Gómez Obregón ([@JaimeObregon](https://twitter.com/jaimeobregon)), _scraping_ de los datos y propuesta inicial.
 - JuanMa Cuevas ([@juanmacuevas](https://twitter.com/juanmacuevas)), programador python & android. _hacktivista_ aficionado.
