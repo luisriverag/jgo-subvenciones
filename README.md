@@ -33,8 +33,6 @@
 >
 > Gracias a todos los que lo hicisteis posible 🙏
 
-Este proyecto ha sido archivado.
-
 [Read in English](README_en.md)
 
 Un reto con la Base de Datos Nacional de Subvenciones (BDNS).
