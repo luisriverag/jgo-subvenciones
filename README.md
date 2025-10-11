@@ -1,5 +1,40 @@
 # Subvenciones
 
+> [!NOTE]
+> 🚧 **Este proyecto ha sido archivado y ya no se aceptan contribuciones.**
+>
+> Por una parte, el Ministerio de Hacienda ha renovado el portal de la Base de
+> Datos Nacional de Subvenciones y ahora permite descargar los datos; algo que
+> no era posible cuando lancé este proyecto en 2022.
+>
+> Lo expresado en este proyecto ya no tiene aplicación en el nuevo portal de
+> subvenciones.
+>
+> Esta iniciativa —por lo que he oído— parece que tuvo algo que ver en ese
+> movimiento del Ministerio…
+>
+> Por otro lado, quiero agradecer de corazón la respuesta de la comunidad.
+> El servidor de Discord llegó a reunir **cerca de un millar de personas**
+> entusiastas, dispuestas a ayudar y a colaborar. Fue algo que me superó.
+>
+> Hice lo que pude, pero la magnitud de la respuesta me sobrepasó. No supe
+> cómo organizar a tanta gente ni cómo mantener el ritmo sin desatender otras
+> áreas de mi vida. Llegué incluso a buscar a alguien que pudiera asumir la
+> coordinación de la comunidad, pero no logré encontrar a la persona adecuada.
+>
+> Confieso con humildad que me sentí abrumado y que, al final, no fui capaz de
+> liderar esta iniciativa tanto como habría querido. Aun así, me alegra que
+> sirviera para abrir un debate público y para inspirar algunos hilos virales
+> en Twitter (ahora X) que arrojaron luz sobre las subvenciones públicas en
+> España.
+>
+> Queda el proyecto archivado como referencia y como testimonio de aquel
+> intento colectivo de mejorar la transparencia pública.
+>
+> Gracias a todos los que lo hicisteis posible 🙏
+
+Este proyecto ha sido archivado.
+
 [Read in English](README_en.md)
 
 Un reto con la Base de Datos Nacional de Subvenciones (BDNS).
